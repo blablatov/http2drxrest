@@ -17,7 +17,7 @@
 
 Integration with Directum RX, via REST, OData. 
 
-Sheme exchange of data:
+Scheme exchange of data:
 
 > REST(imitation from web browser) <---> web-server_URL-parser/http2drxrest <---> REST_OData/restpost
 
